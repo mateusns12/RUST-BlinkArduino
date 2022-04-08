@@ -14,5 +14,6 @@ fn main() -> ! {
     loop {
         led.toggle();
         arduino_hal::delay_ms(1000);
+        //blink each second
     }
 }
