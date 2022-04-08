@@ -8,7 +8,7 @@ Simple blink program, using the arduino_hal crate, by [Rahix](https://github.com
 
 # Notes
 
-- Using nightly-20-12-08.
+- Using nightly-2020-12-08.
 
 - Versions above nightly-2021-01-07 won't work. See this [Issue](https://github.com/rust-lang/rust/issues/88252).
 
