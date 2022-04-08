@@ -1,10 +1,8 @@
 # Blink code for Arduino using RUST
 
-
-
-[!https://img.shields.io/badge/Language-RUST-critical?style=for-the-badge&logo=rust]
-[!https://img.shields.io/badge/System-Arch_WLS2-A100FF?style=for-the-badge&logo=windows]
-[!https://img.shields.io/badge/Board-Arduino_Leonardo-06B6D4?style=for-the-badge&logo=arduino]
+![Language](https://img.shields.io/badge/Language-RUST-critical?style=for-the-badge&logo=rust)
+![System](https://img.shields.io/badge/System-Arch_WLS2-A100FF?style=for-the-badge&logo=windows)
+![Board](https://img.shields.io/badge/Board-Arduino_Leonardo-06B6D4?style=for-the-badge&logo=arduino)
 
 Simple blink program, using the arduino_hal crate, by [Rahix](https://github.com/Rahix/avr-hal). Developed in WSL2.
 
